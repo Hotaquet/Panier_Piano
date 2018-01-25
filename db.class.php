@@ -3,7 +3,7 @@ class DB{
 
 	private $host = 'localhost';
 	private $username = 'root';
-	private $password = 'requiemmwka';
+	private $password = '';
 	private $database = 'mycart';
 	private $db;
 
